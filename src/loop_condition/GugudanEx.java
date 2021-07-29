@@ -1,4 +1,4 @@
-package loop;
+package loop_condition;
 
 public class GugudanEx {
     public static void main(String[] args) {
